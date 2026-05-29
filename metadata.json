@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Construction Profile & Summit",
+  "description": "Professional construction corporate showcase with integrated Event Registration and Google Pay UPI QR payment system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
